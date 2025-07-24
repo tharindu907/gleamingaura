@@ -1,0 +1,16 @@
+# Global ignores
+node_modules/
+.env
+.DS_Store
+*.log
+
+# React build files
+client/build/
+client/node_modules/
+
+# Server files
+server/node_modules/
+
+# OS & Editor-specific
+.vscode/
+.idea/
